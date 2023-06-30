@@ -13,7 +13,7 @@ The proposed system is designed to be efficient and effective in detecting intru
 
 The key contribution of this project is summarized below, 
 
-1. In this project, the CNN-AWHSE-ST-IoT Method is proposed.
+1. In this model development process, the CNN-AWHSE-ST-IoT Method is proposed.
 2. Primarily, the input data is taken from the NSL-KDD dataset. 
 3. In the initial step, the input data of the NSL-KDD dataset is pre-processed. The pre- processing stage includes three stages. The crisp data conversion, splitting, and normalization are performed in this process. 4. The CHA is used to choose the significant features of the pre-processed data. 
 5. After feature selection, the chosen features are given to the Convolutional Neural Network (CNN) classifier, which classifies the attack and non-attack (Normal data).
